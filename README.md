@@ -1,13 +1,13 @@
 # Subscription & Plan Management System (POO)
 
-A modular, object-oriented system written in Java designed to manage user accounts, activity tracking, subscription plans, and dynamic cost calculations. This project demonstrates core Object-Oriented Programming (OOP) principles including abstraction, encapsulation, inheritance, and interface-driven design.
+A modular, object-oriented system written in Java designed to manage user accounts, activity tracking, subscription plans, and dynamic cost calculations. This project demonstrates core Object-Oriented Programming (POO) principles including abstraction, encapsulation, inheritance, and interface-driven design.
 
 ---
 
 ## 🛠️ Tech Stack & Architecture
 
 - **Language:** Java (JDK 8+)
-- **Paradigm:** Object-Oriented Programming (OOP)
+- **Paradigm:** Object-Oriented Programming (POO)
 - **Modeling:** UML (Unified Modeling Language) Architecture
 
 ---
